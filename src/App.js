@@ -1,7 +1,6 @@
 import React from 'react'
 import { Route, Switch } from "react-router-dom";
 import Header from './Header';
-// import Typing from './typing';
 import TypingSmooth from './tt.smoth'
 
 import Mouse from './mouse';
